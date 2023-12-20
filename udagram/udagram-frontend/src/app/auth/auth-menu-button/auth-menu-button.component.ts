@@ -39,6 +39,10 @@ export class AuthMenuButtonComponent implements OnInit {
     return await modal.present();
   }
 
+  getCurrentUser()  {
+    return this.auth.currentUser$;
+  }
+
   logout() {
     this.auth.logout();
   }
