@@ -4,7 +4,7 @@ The udagram application is a fairly simple application that includes all the maj
 
 ![Udagram](https://github.com/mauricioschneider/udacity-cicd/blob/master/docs/images/udagram.png?raw=true)
 
-Click [here](udagram-75139724086.s3-website-us-east-1.amazonaws.com/) to access the working application.
+Click [here](http://udagram-75139724086.s3-website-us-east-1.amazonaws.com/) to access the working application.
 
 ### Installation
 
