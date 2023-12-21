@@ -2,9 +2,7 @@
 
 The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
-## Functionality
-
-
+Click [here](udagram-75139724086.s3-website-us-east-1.amazonaws.com/) to access the working application.
 
 ### Dependencies
 
